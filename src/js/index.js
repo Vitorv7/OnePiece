@@ -23,3 +23,16 @@ function desselecionaBotao() {
   const botaoSelecionado = document.querySelector('.botao.selecionado')
   botaoSelecionado.classList.remove('selecionado')
 }
+
+// SCROLLREVEAL
+
+ScrollReveal({ reset: true })
+
+ScrollReveal().reveal('.personagens', {
+  duration: 2000
+})
+
+ScrollReveal().reveal('.botoes', {
+  duration: 2000,
+  rotate: { x: 90, y: 0, z: 0 }
+})
