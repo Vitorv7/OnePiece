@@ -15,8 +15,8 @@
 
 Este é um projeto desenvolvido para um evento promovido pelo Dev em Dobro, do qual estou participando.
 
-<br>_Funcionalidade principal:
-_O site permite ao usuário interagir com ícones de personagens. Ao selecionar um dos ícones, o site atualiza automaticamente o personagem em destaque, alterando sua descrição, a imagem principal e _o plano de fundo da página de acordo com o personagem escolhido.<br/>
+_Funcionalidade principal:
+O site permite ao usuário interagir com ícones de personagens. Ao selecionar um dos ícones, o site atualiza automaticamente o personagem em destaque, alterando sua descrição, a imagem principal e o plano de fundo da página de acordo com o personagem escolhido._
 
 _**O Projeto está acessível para mobile**_
 
