@@ -13,8 +13,10 @@
 
 **DESCRIÇÃO PROJETO**
 
-_Esse e um projeto de um evento do **Devemdobro** em qual eu participei._<br/>
-_Funcionalidade do site: Quando você seleciona o icone de um personagem ele altera para o icone que você selecionou e muda descrição do personagem e a imagem de fundo._<br/>
+Este é um projeto desenvolvido para um evento promovido pelo Dev em Dobro, do qual estou participando.
+
+<br>_Funcionalidade principal:
+_O site permite ao usuário interagir com ícones de personagens. Ao selecionar um dos ícones, o site atualiza automaticamente o personagem em destaque, alterando sua descrição, a imagem principal e _o plano de fundo da página de acordo com o personagem escolhido.<br/>
 
 _**O Projeto está acessível para mobile**_
 
